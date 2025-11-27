@@ -4,6 +4,8 @@ public class Main {
     public static void main(String[] args) {
 
 
+
+        int number = 0;
         System.out.println("Hello and welcome!");
 
         System.out.println("Aruuke is the best");
