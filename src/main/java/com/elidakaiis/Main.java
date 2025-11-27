@@ -5,7 +5,7 @@ public class Main {
 
 
 
-        int number = 0;
+
         System.out.println("Hello and welcome!");
 
         System.out.println("Aruuke is the best");
