@@ -9,7 +9,7 @@ public class Main {
 
         }
         private static String getMessage() {
-        return "Helllo qa.guru YESSS";
+        return "Helllo qa.guru YESS";
             
         }
     }
